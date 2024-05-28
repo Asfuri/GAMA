@@ -12,7 +12,7 @@ Esse foi um projeto desenvolvido por discentes do curso de *Engenharia da Comput
 - *[Marco Antonio de Vasconcelos Souza Filho](https://github.com/MarcoFilho1)*
 
 ### Docente:
-- Anand Subramanian*
+- *Anand Subramanian*
 
 ## Objetivo:
 GAMA foi o projeto final da disciplina de Introdução à Engenharia da Computação. Utilizando um Arduino e um sensor de líquido sem contato, desenvolvemos um sistema para detectar quando galões de água estão vazios. Além disso, integramos uma API própria do Telegram para criar um bot que notifica os usuários sobre o status dos galões via mensagens, os avisos são feitos com duas funcionalidades básicas: avisos manuais via comando e avisso automáticos ao integrar o sistema com um chatbot, também é possível fazer a gerência de diversos galões ao mesmo tempo, mantendo o usuário atualizado do status do nível da água.
